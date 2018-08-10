@@ -1,0 +1,2 @@
+print('''Currently in %s, %s it is %d with a high of %d and a low of %d
+with \%d percent humidity and %s''' % (city, state, w.get_temperature('fahrenheit')['temp'], w.get_temperature('fahrenheit')['temp_max'], w.get_temperature('fahrenheit')['temp_min'], w.get_humidity(), w.get_detailed_status() ))
