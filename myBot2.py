@@ -17,8 +17,8 @@ with open('cities.json') as f:
     data = json.load(f)
 
 BOT_PREFIX = ("?", "!")
-TOKEN = 'NDU2NDQ4OTE0Mjk2NTM3MDg4.DgKs0g.ovkrYQK80T71sBMfCC59zHlew9Y'
-api_key = 'ba6bb9549e9fc6be2c0cd11e973c9c27'
+TOKEN = 'ENTER-TOKEN-KEY-HERE'
+api_key = 'ENTER-API-KEY-HERE'
 
 dtEast2 = datetime.datetime.today()
 timeNow = dtEast2.strftime('%B %d, %Y, %I:%M %p')
