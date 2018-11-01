@@ -8,7 +8,7 @@ with open('cities.json') as f:
 
 
 
-api_key = 'ba6bb9549e9fc6be2c0cd11e973c9c27'
+api_key = 'APIKEYHERE'
 dtEast2 = datetime.datetime.today()
 timeNow = dtEast2.strftime('%B %d, %Y, %I:%M %p')
 
